@@ -1,0 +1,9 @@
+pydantic
+beautifulsoup4
+requests
+neo4j
+pymongo
+python-dotenv
+fastapi
+uvicorn
+pandas
