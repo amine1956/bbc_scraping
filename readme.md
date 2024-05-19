@@ -25,7 +25,8 @@ This project involves scraping articles from [BBC News](https://www.bbc.com/news
      - Retrieving all articles stored in MongoDB or Neo4j.
      - Obtaining the count of articles per author from BBC News.
      - Identifying the top 20 discussed topics on BBC News.
-     ![image](https://github.com/amine1956/bbc_scraping/assets/73759527/086467c4-92eb-4739-b8eb-e35a4b88f897)
+     ![image](https://github.com/amine1956/bbc_scraping/assets/73759527/2048452e-44b5-4b06-b0ad-7e08d1f9730a)
+
 4. **Data Visualization with JavaScript**:
    - After implementing the API endpoints, data was consumed using JavaScript's `fetch` API to retrieve the stored data.
    - Chart.js was utilized for creating interactive charts and visualizations, including both bar charts and pie charts.
