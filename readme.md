@@ -33,6 +33,26 @@ This project involves scraping articles from [BBC News](https://www.bbc.com/news
    - The retrieved data was processed and used to populate these types of charts, with bar charts representing certain data distributions and pie charts providing insights into categorical data.
      ![image](https://github.com/amine1956/bbc_scraping/assets/73759527/4bdeca1d-f483-4176-aa8e-7b8c8b9e44ef)
 
+Bonus:
+To run this project, you need to build the following Docker image:
+1. **Build the Docker Image**: Run the following command to build the Docker image from the Dockerfile.
+
+    ```bash
+    docker build -t my-bbc-app .
+    ```
+2. **Run the Docker Container**: Once the image is built, run a container from this image using the following command.
+
+    ```bash
+    docker run -p 8000:8000 my-bbc-app
+    ```
+This series of commands will build the Docker image and run the container, making your application accessible on port 8000.
+
+
+
+
+
+
+
 
 
 
